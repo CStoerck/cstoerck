@@ -16,7 +16,7 @@ I have been fascinated by data for as long as I can remember.
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cstoerck.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codystoerck/)
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/CStoerck"><img src="https://github-readme-stats.vercel.app/api?username=CStoerck&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CStoerck's GitHub stats" /></a>
 
