@@ -6,7 +6,7 @@ Data Analyst
 
 I have been fascinated by data for as long as I can remember.
 
-* 🌍  I'm based in Orange County, CA
+* 🌍  I'm based in Orange, CA
 * 🖥️  See my portfolio at [http://cstoerck.github.io](http://cstoerck.github.io)
 * ✉️  You can contact me at [cstoerck@gmail.com](mailto:cstoerck@gmail.com)
 
